@@ -2,6 +2,7 @@
 Django CBTools
 ==============
 
+
 Django CBTools is a wrapper around `Couchbase <https://pypi.python.org/pypi/couchbase>`_
 python library plus several hook to
 `Sync-Gateway <http://developer.couchbase.com/mobile/develop/references/sync-gateway/rest-api/index.html>`_ API.
@@ -16,6 +17,7 @@ The essential part of the package is models. They are inherited from Django mode
 with almost all the benefits they have: can be validated with Django forms and have fields
 all sort of field you are used to have.
 
+Check `documentation <http://django-cbtools.readthedocs.org>`_ for more information.
 
 ============
 Installation
